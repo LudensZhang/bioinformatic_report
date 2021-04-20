@@ -1,0 +1,105 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Synthetic construct clone icSARS-CoV-2-nLuc-GFP ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1ab), surface glycoprotein (S), ORF3a protein (ORF3a), envelope protein (E), membrane glycoprotein (M), ORF6 protein (ORF6), ORF7a-GFP-NL fusion protein (ORF7a), ORF7b (ORF7b), ORF8 protein (ORF8), nucleocapsid phosphoprotein (N), and ORF10 protein (ORF10) genes, complete cds",synthetic construct,2486,2486,100%,0,100,30857,MT461671.1
+"Synthetic construct clone icSARS-CoV-2-GFP ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1ab), surface glycoprotein (S), ORF3a protein (ORF3a), envelope protein (E), membrane glycoprotein (M), ORF6 protein (ORF6), ORF7a-GFP fusion protein (ORF7a), ORF7b (ORF7b), ORF8 protein (ORF8), nucleocapsid phosphoprotein (N), and ORF10 protein (ORF10) genes, complete cds",synthetic construct,2486,2486,100%,0,100,30347,MT461670.1
+"Synthetic construct clone icSARS-CoV-2-WT ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1ab), surface glycoprotein (S), ORF3a protein (ORF3a), envelope protein (E), membrane glycoprotein (M), ORF6 protein (ORF6), ORF7a protein (ORF7a), ORF7b (ORF7b), ORF8 protein (ORF8), nucleocapsid phosphoprotein (N), and ORF10 protein (ORF10) genes, complete cds",synthetic construct,2486,2486,100%,0,100,29903,MT461669.1
+"Synthetic construct ORF1ab, spike, ORF3, E, M, ORF6, ORF8, and N genes, complete cds",synthetic construct,2486,2486,100%,0,100,29891,MT108784.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_10 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2486,2486,100%,0,100,29903,HG994859.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_09 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2486,2486,100%,0,100,29903,HG994858.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_07 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2486,2486,100%,0,100,29903,HG994856.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_06 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2486,2486,100%,0,100,29903,HG994855.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_03 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2486,2486,100%,0,100,29903,HG994854.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_02 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2486,2486,100%,0,100,29901,HG994853.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_08 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2481,2481,100%,0,99.93,29903,HG994857.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_01 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2470,2470,100%,0,99.78,29900,HG994852.1
+"Synthetic construct clone C35/41, complete sequence",synthetic construct,2369,2369,100%,0,98.11,171907,MW036243.1
+"Synthetic construct clone C46/53, complete sequence",synthetic construct,2369,2369,100%,0,98.11,171918,MW030460.1
+"Bat coronavirus RaTG13, complete genome",Bat coronavirus RaTG13,1919,1919,99%,0,90.94,29855,MN996532.2
+"Cloning vector pSF_lenti_SARS-CoV-2_partial-S/E/M/N, complete sequence",Cloning vector pSF_lenti_SARS-CoV-2_partial-S/E/M/N,1360,1360,54%,0,99.87,13543,MT299805.1
+Synthetic construct clone NIBSC_20_138_4 sequence,synthetic construct,1360,1360,54%,0,99.87,7558,MW059035.1
+"Cloning vector pSF_lenti_SARS-CoV-2_partial-ORF1b/partial-S, complete sequence",Cloning vector pSF_lenti_SARS-CoV-2_partial-ORF1b/partial-S,1299,1299,52%,0,99.72,13507,MT299804.1
+Synthetic construct clone NIBSC_20_138_3 sequence,synthetic construct,1236,1236,50%,0,99.71,7575,MW059034.1
+"Pangolin coronavirus isolate PCoV_GX-P4L, complete genome",Pangolin coronavirus,1233,1233,99%,0,80.09,29805,MT040333.1
+"Pangolin coronavirus isolate PCoV_GX-P5L, complete genome",Pangolin coronavirus,1229,1229,99%,0,80.01,29806,MT040335.1
+"Pangolin coronavirus isolate PCoV_GX-P5E, complete genome",Pangolin coronavirus,1224,1224,99%,0,79.94,29802,MT040336.1
+"Pangolin coronavirus isolate PCoV_GX-P2V, complete genome",Pangolin coronavirus,1223,1223,99%,0,79.9,29795,MT072864.1
+"Pangolin coronavirus isolate PCoV_GX-P1E, complete genome",Pangolin coronavirus,1216,1216,99%,0,79.8,29801,MT040334.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_11 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,1133,2094,84%,0,100,29903,HG994860.1
+Pangolin coronavirus isolate PCoV_GX-P3B genomic sequence,Pangolin coronavirus,967,1098,87%,0,80.35,29801,MT072865.1
+"Pangolin coronavirus isolate MP789, complete genome",Pangolin coronavirus,952,952,93%,0,76.65,29521,MT121216.1
+"Pangolin coronavirus isolate cDNA31-S surface glycoprotein (S) gene, complete cds",Pangolin coronavirus,952,952,93%,0,76.65,3798,MT799526.1
+"Pangolin coronavirus isolate cDNA20-S surface glycoprotein (S) gene, complete cds",Pangolin coronavirus,952,952,93%,0,76.65,3798,MT799525.1
+"Pangolin coronavirus isolate cDNA18-S surface glycoprotein (S) gene, complete cds",Pangolin coronavirus,952,952,93%,0,76.65,3798,MT799524.1
+"Pangolin coronavirus isolate cDNA16-S surface glycoprotein (S) gene, complete cds",Pangolin coronavirus,952,952,93%,0,76.65,3798,MT799523.1
+"Pangolin coronavirus isolate cDNA8-S surface glycoprotein (S) gene, complete cds",Pangolin coronavirus,952,952,93%,0,76.65,3798,MT799521.1
+"Pangolin coronavirus isolate cDNA9-S surface glycoprotein (S) gene, complete cds",Pangolin coronavirus,948,948,93%,0,76.57,3798,MT799522.1
+"Recombinant vector AAVCOVID19-3, complete sequence",Recombinant vector AAVCOVID19-3,820,820,99%,0,73.3,6832,MW408786.1
+"Recombinant vector AAVCOVID19-1, complete sequence",Recombinant vector AAVCOVID19-1,820,820,99%,0,73.3,7488,MW408785.1
+Pangolin coronavirus isolate MP789 genomic sequence,Pangolin coronavirus,809,971,87%,0,85.86,27213,MT084071.1
+"Mutant Measles morbillivirus strain MeVvac2-SARS2-S(H), complete genome",Measles morbillivirus,769,769,99%,0,72.53,19800,MW090971.1
+"Cloning vector pCDNA3.1.2S, complete sequence",Cloning vector pCDNA3.1.2S,748,748,99%,0,72.15,9209,MT613044.1
+"Synthetic construct SARS_CoV_2_ectoCSPP gene, complete cds",synthetic construct,741,741,99%,0,72.19,3771,MT380725.1
+"Bat SARS-like coronavirus isolate bat-SL-CoVZC45, complete genome",Bat SARS-like coronavirus,491,491,78%,5.00E-134,70.31,29802,MG772933.1
+"Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome",Bat SARS-like coronavirus,464,464,78%,7.00E-126,69.76,29732,MG772934.1
+"SARS coronavirus C029 spike glycoprotein gene, complete cds",SARS coronavirus C029,417,417,85%,9.00E-112,68.36,3768,AY687372.1
+"SARS coronavirus isolate CFB/SZ/94/03, complete genome",Severe acute respiratory syndrome-related coronavirus,417,417,85%,9.00E-112,68.53,29739,AY545919.1
+"SARS coronavirus C028 spike glycoprotein gene, complete cds",SARS coronavirus C028,413,413,85%,4.00E-110,68.44,3768,AY687371.1
+"SARS coronavirus C019 spike glycoprotein gene, complete cds",SARS coronavirus C019,413,413,85%,4.00E-110,68.44,3768,AY687369.1
+"SARS coronavirus C018 spike glycoprotein gene, complete cds",SARS coronavirus C018,413,413,85%,4.00E-110,68.44,3768,AY687368.1
+"SARS coronavirus B040 spike glycoprotein gene, complete cds",SARS coronavirus B040,413,413,85%,4.00E-110,68.44,3768,AY687364.1
+"SARS coronavirus B012 spike glycoprotein gene, complete cds",SARS coronavirus B012,413,413,85%,4.00E-110,68.44,3768,AY687359.1
+"SARS coronavirus A021 spike glycoprotein gene, complete cds",SARS coronavirus A021,413,413,85%,4.00E-110,68.27,3768,AY687356.1
+"SARS coronavirus A013 spike glycoprotein gene, complete cds",SARS coronavirus A013,413,413,85%,4.00E-110,68.44,3768,AY687355.1
+"SARS coronavirus B039, complete genome",SARS coronavirus B039,413,413,85%,4.00E-110,68.44,29525,AY686864.1
+"SARS coronavirus PC4-241 spike glycoprotein gene, complete cds",SARS coronavirus PC4-241,413,413,85%,4.00E-110,68.44,3768,AY627048.1
+"SARS coronavirus PC4-199 spike glycoprotein gene, complete cds",SARS coronavirus PC4-199,413,413,85%,4.00E-110,68.44,3768,AY627047.1
+"SARS coronavirus PC4-145 spike glycoprotein gene, complete cds",SARS coronavirus PC4-145,413,413,85%,4.00E-110,68.44,3768,AY627046.1
+"SARS coronavirus PC4-137 spike glycoprotein gene, complete cds",SARS coronavirus PC4-137,413,413,85%,4.00E-110,68.44,3768,AY627045.1
+"SARS coronavirus PC4-115 spike glycoprotein gene, complete cds",SARS coronavirus PC4-115,413,413,85%,4.00E-110,68.44,3768,AY627044.1
+"SARS coronavirus PC4-227, complete genome",SARS coronavirus PC4-227,413,413,85%,4.00E-110,68.44,29728,AY613950.1
+"SARS coronavirus PC4-136, complete genome",SARS coronavirus PC4-136,413,413,85%,4.00E-110,68.44,29730,AY613949.1
+"SARS coronavirus PC4-127 spike glycoprotein gene, complete cds",SARS coronavirus PC4-127,413,413,85%,4.00E-110,68.44,3768,AY613951.1
+"SARS coronavirus civet020, complete genome",SARS coronavirus civet020,413,413,85%,4.00E-110,68.44,29683,AY572038.1
+"SARS coronavirus civet019 spike glycoprotein gene, complete cds",SARS coronavirus civet019,413,413,85%,4.00E-110,68.27,3768,AY572037.1
+"SARS coronavirus civet014 spike glycoprotein gene, complete cds",SARS coronavirus civet014,413,413,85%,4.00E-110,68.27,3768,AY572036.1
+"SARS coronavirus GZ0401, complete genome",SARS coronavirus GZ0401,413,413,85%,4.00E-110,68.44,29730,AY568539.1
+"SARS coronavirus isolate HC/GZ/32/03, complete genome",Severe acute respiratory syndrome-related coronavirus,413,413,85%,4.00E-110,68.44,29737,AY545918.1
+"SARS coronavirus isolate HC/GZ/81/03, complete genome",Severe acute respiratory syndrome-related coronavirus,413,413,85%,4.00E-110,68.44,29739,AY545917.1
+"SARS coronavirus isolate HC/SZ/266/03, complete genome",Severe acute respiratory syndrome-related coronavirus,413,413,85%,4.00E-110,68.44,29721,AY545916.1
+"SARS coronavirus isolate HC/SZ/DM1/03, complete genome",Severe acute respiratory syndrome-related coronavirus,413,413,85%,4.00E-110,68.27,29714,AY545915.1
+"SARS coronavirus isolate HC/SZ/79/03, complete genome",Severe acute respiratory syndrome-related coronavirus,413,413,85%,4.00E-110,68.27,29723,AY545914.1
+"SARS coronavirus HGZ8L1-A, partial genome",SARS coronavirus HGZ8L1-A,411,411,85%,1.00E-109,68.18,29726,AY394981.1
+"SARS coronavirus isolate A001, complete genome",Severe acute respiratory syndrome-related coronavirus,410,410,81%,1.00E-109,68.79,29694,FJ959407.1
+"SARS coronavirus C013 spike glycoprotein gene, complete cds",SARS coronavirus C013,410,410,81%,1.00E-109,68.62,3768,AY687365.1
+"SARS coronavirus B033 spike glycoprotein gene, complete cds",SARS coronavirus B033,410,410,81%,1.00E-109,68.79,3768,AY687362.1
+"SARS coronavirus A001 spike glycoprotein gene, complete cds",SARS coronavirus A001,410,410,81%,1.00E-109,68.62,3768,AY687354.1
+"Severe acute respiratory syndrome-related coronavirus Rc-o319 RNA, complete genome",Severe acute respiratory syndrome-related coronavirus,409,409,44%,5.00E-109,74.72,29718,LC556375.1
+"SARS coronavirus WF188 spike glycoprotein gene, complete cds",SARS coronavirus WF188,409,409,85%,5.00E-109,68.16,4248,DQ514528.1
+"SARS coronavirus SZ1, partial genome",SARS coronavirus SZ1,408,408,85%,5.00E-109,68.19,8439,AY304489.1
+"SARS coronavirus SZ16, complete genome",Civet SARS CoV SZ16/2003,408,408,85%,5.00E-109,68.19,29731,AY304488.1
+"SARS coronavirus SZ13, partial genome",SARS coronavirus SZ13,408,408,85%,5.00E-109,68.19,8581,AY304487.1
+"SARS coronavirus SZ3, complete genome",Civet SARS CoV SZ3/2003,408,408,85%,5.00E-109,68.19,29741,AY304486.1
+"SARS coronavirus C025 spike glycoprotein gene, complete cds",SARS coronavirus C025,408,408,85%,5.00E-109,68.19,3768,AY687370.1
+"SARS coronavirus B039 spike glycoprotein gene, complete cds",SARS coronavirus B039,408,408,85%,5.00E-109,68.36,3768,AY687363.1
+"SARS coronavirus B029 spike glycoprotein gene, complete cds",SARS coronavirus B029,408,408,85%,5.00E-109,68.19,3768,AY687361.1
+"SARS coronavirus B024 spike glycoprotein gene, complete cds",SARS coronavirus B024,408,408,85%,5.00E-109,68.19,3768,AY687360.1
+"SARS coronavirus A030 spike glycoprotein gene, complete cds",SARS coronavirus A030,408,408,85%,5.00E-109,68.19,3768,AY687357.1
+"SARS coronavirus A022, complete genome",SARS coronavirus A022,408,408,85%,5.00E-109,68.19,29499,AY686863.1
+"SARS coronavirus PC4-13, complete genome",SARS coronavirus PC4-13,408,408,85%,5.00E-109,68.36,29730,AY613948.1
+"SARS coronavirus GZ0402, complete genome",SARS coronavirus GZ0402,408,408,85%,5.00E-109,68.36,29730,AY613947.1
+"SARS coronavirus PC4-205 spike glycoprotein gene, complete cds",SARS coronavirus PC4-205,408,408,85%,5.00E-109,68.36,3768,AY613952.1
+"SARS coronavirus civet010, complete genome",SARS coronavirus civet010,408,408,85%,5.00E-109,68.19,29518,AY572035.1
+"SARS coronavirus civet007, complete genome",Civet SARS CoV 007/2004,408,408,85%,5.00E-109,68.19,29540,AY572034.1
+"SARS coronavirus GD03T0013 spike glycoprotein gene, complete cds",SARS coronavirus GD03T0013,408,408,85%,5.00E-109,68.36,3768,AY525636.1
+"SARS coronavirus ZS-C, complete genome",SARS coronavirus ZS-C,407,407,85%,2.00E-108,68.16,29647,AY395003.1
+"SARS coronavirus ZS-B, complete genome",SARS coronavirus ZS-B,407,407,85%,2.00E-108,68.16,29683,AY394996.1
+"SARS coronavirus JMD, partial genome",SARS coronavirus JMD,407,407,85%,2.00E-108,68.16,29665,AY394988.1
+"SARS coronavirus GZ60, partial genome",SARS coronavirus GZ60,407,407,85%,2.00E-108,68.16,11006,AY304491.1
+"SARS coronavirus GZ43, partial genome",SARS coronavirus GZ43,407,407,85%,2.00E-108,68.16,13471,AY304490.1
+"SARS coronavirus HC/SZ/61/03, complete genome",SARS coronavirus HC/SZ/61/03,404,404,85%,2.00E-107,68.1,29731,AY515512.1
+"SARS coronavirus GZ02, complete genome",SARS coronavirus GZ02,404,404,85%,2.00E-107,68.1,29760,AY390556.1
+"SARS coronavirus HSZ2-A, complete genome",SARS coronavirus HSZ2-A,404,404,85%,2.00E-107,68.1,29699,AY394983.1
+"SARS coronavirus GD01, complete genome",SARS coronavirus GD01,404,404,85%,2.00E-107,68.1,29757,AY278489.2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

@@ -1,0 +1,35 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Synthetic construct clone icSARS-CoV-2-nLuc-GFP ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1ab), surface glycoprotein (S), ORF3a protein (ORF3a), envelope protein (E), membrane glycoprotein (M), ORF6 protein (ORF6), ORF7a-GFP-NL fusion protein (ORF7a), ORF7b (ORF7b), ORF8 protein (ORF8), nucleocapsid phosphoprotein (N), and ORF10 protein (ORF10) genes, complete cds",synthetic construct,2545,2545,100%,0,100,30857,MT461671.1
+"Synthetic construct clone icSARS-CoV-2-GFP ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1ab), surface glycoprotein (S), ORF3a protein (ORF3a), envelope protein (E), membrane glycoprotein (M), ORF6 protein (ORF6), ORF7a-GFP fusion protein (ORF7a), ORF7b (ORF7b), ORF8 protein (ORF8), nucleocapsid phosphoprotein (N), and ORF10 protein (ORF10) genes, complete cds",synthetic construct,2545,2545,100%,0,100,30347,MT461670.1
+"Synthetic construct clone icSARS-CoV-2-WT ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1ab), surface glycoprotein (S), ORF3a protein (ORF3a), envelope protein (E), membrane glycoprotein (M), ORF6 protein (ORF6), ORF7a protein (ORF7a), ORF7b (ORF7b), ORF8 protein (ORF8), nucleocapsid phosphoprotein (N), and ORF10 protein (ORF10) genes, complete cds",synthetic construct,2545,2545,100%,0,100,29903,MT461669.1
+"Synthetic construct ORF1ab, spike, ORF3, E, M, ORF6, ORF8, and N genes, complete cds",synthetic construct,2545,2545,100%,0,100,29891,MT108784.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_10 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2545,2545,100%,0,100,29903,HG994859.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_09 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2545,2545,100%,0,100,29903,HG994858.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_07 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2545,2545,100%,0,100,29903,HG994856.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_06 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2545,2545,100%,0,100,29903,HG994855.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_03 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2545,2545,100%,0,100,29903,HG994854.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_02 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2545,2545,100%,0,100,29901,HG994853.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_08 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2540,2540,100%,0,99.93,29903,HG994857.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_01 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,2525,2525,100%,0,99.78,29900,HG994852.1
+"Synthetic construct clone C35/41, complete sequence",synthetic construct,2401,2401,100%,0,98.11,171907,MW036243.1
+"Synthetic construct clone C46/53, complete sequence",synthetic construct,2401,2401,100%,0,98.11,171918,MW030460.1
+"Bat coronavirus RaTG13, complete genome",Bat coronavirus RaTG13,1857,1857,95%,0,92.22,29855,MN996532.2
+"Cloning vector pSF_lenti_SARS-CoV-2_partial-S/E/M/N, complete sequence",Cloning vector pSF_lenti_SARS-CoV-2_partial-S/E/M/N,1391,1391,54%,0,99.87,13543,MT299805.1
+Synthetic construct clone NIBSC_20_138_4 sequence,synthetic construct,1391,1391,54%,0,99.87,7558,MW059035.1
+"Cloning vector pSF_lenti_SARS-CoV-2_partial-ORF1b/partial-S, complete sequence",Cloning vector pSF_lenti_SARS-CoV-2_partial-ORF1b/partial-S,1328,1328,52%,0,99.72,13507,MT299804.1
+Synthetic construct clone NIBSC_20_138_3 sequence,synthetic construct,1264,1264,50%,0,99.71,7575,MW059034.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_11 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,1160,2144,84%,0,100,29903,HG994860.1
+"Pangolin coronavirus isolate MP789, complete genome",Pangolin coronavirus,749,749,53%,0,84.87,29521,MT121216.1
+"Pangolin coronavirus isolate cDNA31-S surface glycoprotein (S) gene, complete cds",Pangolin coronavirus,749,749,53%,0,84.87,3798,MT799526.1
+"Pangolin coronavirus isolate cDNA20-S surface glycoprotein (S) gene, complete cds",Pangolin coronavirus,749,749,53%,0,84.87,3798,MT799525.1
+"Pangolin coronavirus isolate cDNA18-S surface glycoprotein (S) gene, complete cds",Pangolin coronavirus,749,749,53%,0,84.87,3798,MT799524.1
+"Pangolin coronavirus isolate cDNA16-S surface glycoprotein (S) gene, complete cds",Pangolin coronavirus,749,749,53%,0,84.87,3798,MT799523.1
+"Pangolin coronavirus isolate cDNA9-S surface glycoprotein (S) gene, complete cds",Pangolin coronavirus,749,749,53%,0,84.87,3798,MT799522.1
+"Pangolin coronavirus isolate cDNA8-S surface glycoprotein (S) gene, complete cds",Pangolin coronavirus,749,749,53%,0,84.87,3798,MT799521.1
+Pangolin coronavirus isolate MP789 genomic sequence,Pangolin coronavirus,737,737,50%,0,85.86,27213,MT084071.1
+"Severe acute respiratory syndrome-related coronavirus Rc-o319 RNA, complete genome",Severe acute respiratory syndrome-related coronavirus,307,307,35%,1.00E-78,78.07,29718,LC556375.1
+"Bat coronavirus Rc-CoV-3 S gene for Spike protein, partial cds",Bat coronavirus,230,230,26%,3.00E-55,78.18,558,LC469301.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

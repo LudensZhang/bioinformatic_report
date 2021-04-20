@@ -1,0 +1,105 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Synthetic construct clone icSARS-CoV-2-WT ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1ab), surface glycoprotein (S), ORF3a protein (ORF3a), envelope protein (E), membrane glycoprotein (M), ORF6 protein (ORF6), ORF7a protein (ORF7a), ORF7b (ORF7b), ORF8 protein (ORF8), nucleocapsid phosphoprotein (N), and ORF10 protein (ORF10) genes, complete cds",synthetic construct,55199,55199,100%,0,99.99,29903,MT461669.1
+"Synthetic construct ORF1ab, spike, ORF3, E, M, ORF6, ORF8, and N genes, complete cds",synthetic construct,55199,55199,99%,0,100,29891,MT108784.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_03 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,54924,54924,99%,0,99.95,29903,HG994854.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_01 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,54887,54887,99%,0,99.93,29900,HG994852.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_08 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,54885,54885,99%,0,99.93,29903,HG994857.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_06 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,54885,54885,99%,0,99.93,29903,HG994855.1
+"Synthetic construct clone icSARS-CoV-2-nLuc-GFP ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1ab), surface glycoprotein (S), ORF3a protein (ORF3a), envelope protein (E), membrane glycoprotein (M), ORF6 protein (ORF6), ORF7a-GFP-NL fusion protein (ORF7a), ORF7b (ORF7b), ORF8 protein (ORF8), nucleocapsid phosphoprotein (N), and ORF10 protein (ORF10) genes, complete cds",synthetic construct,50636,54690,99%,0,99.99,30857,MT461671.1
+"Synthetic construct clone icSARS-CoV-2-GFP ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1ab), surface glycoprotein (S), ORF3a protein (ORF3a), envelope protein (E), membrane glycoprotein (M), ORF6 protein (ORF6), ORF7a-GFP fusion protein (ORF7a), ORF7b (ORF7b), ORF8 protein (ORF8), nucleocapsid phosphoprotein (N), and ORF10 protein (ORF10) genes, complete cds",synthetic construct,50636,54690,99%,0,99.99,30347,MT461670.1
+"Bat coronavirus RaTG13, complete genome",Bat coronavirus RaTG13,48758,48758,99%,0,96.14,29855,MN996532.2
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_09 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,35432,54345,98%,0,99.94,29903,HG994858.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_10 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,35427,54347,98%,0,99.93,29903,HG994859.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_07 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,35425,53067,96%,0,99.93,29903,HG994856.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_02 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,35397,52772,95%,0,99.9,29901,HG994853.1
+"Pangolin coronavirus isolate MP789, complete genome",Pangolin coronavirus,32166,38698,98%,0,90.11,29521,MT121216.1
+"Bat coronavirus isolate PrC31, complete genome",Bat coronavirus,31015,40325,94%,0,92.66,29765,MW703458.1
+"Pangolin coronavirus isolate PCoV_GX-P5L, complete genome",Pangolin coronavirus,28301,31378,99%,0,85.98,29806,MT040335.1
+"Pangolin coronavirus isolate PCoV_GX-P4L, complete genome",Pangolin coronavirus,28293,31365,99%,0,85.97,29805,MT040333.1
+"Pangolin coronavirus isolate PCoV_GX-P2V, complete genome",Pangolin coronavirus,28262,31334,99%,0,85.94,29795,MT072864.1
+"Pangolin coronavirus isolate PCoV_GX-P1E, complete genome",Pangolin coronavirus,28256,31334,99%,0,85.95,29801,MT040334.1
+"Pangolin coronavirus isolate PCoV_GX-P5E, complete genome",Pangolin coronavirus,28247,31314,99%,0,85.95,29802,MT040336.1
+"Bat coronavirus RacCS264, partial genome",Bat coronavirus RacCS264,27475,42052,92%,0,94.7,29820,MW251311.1
+"Bat coronavirus RacCS203, complete genome",Bat coronavirus RacCS203,27475,42217,94%,0,94.7,29832,MW251308.1
+"Bat coronavirus RacCS271, partial genome",Bat coronavirus RacCS271,27470,42076,93%,0,94.69,29820,MW251312.1
+"Bat coronavirus RacCS253, partial genome",Bat coronavirus RacCS253,27470,42082,92%,0,94.7,29820,MW251310.1
+"Bat coronavirus RacCS224, partial genome",Bat coronavirus RacCS224,27470,42107,92%,0,94.7,29820,MW251309.1
+"Bat SARS-like coronavirus isolate bat-SL-CoVZC45, complete genome",Bat SARS-like coronavirus,26943,35336,95%,0,89.12,29802,MG772933.1
+"Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome",Bat SARS-like coronavirus,22223,35276,94%,0,88.65,29732,MG772934.1
+"Severe acute respiratory syndrome-related coronavirus isolate H_SC_11 genome assembly, complete genome: monopartite",Severe acute respiratory syndrome-related coronavirus,18602,51448,93%,0,99.93,29903,HG994860.1
+"SARS coronavirus ZS-C, complete genome",SARS coronavirus ZS-C,15213,22564,88%,0,82.34,29647,AY395003.1
+"SARS coronavirus ZS-B, complete genome",SARS coronavirus ZS-B,15213,22600,88%,0,82.34,29683,AY394996.1
+"SARS coronavirus SZ16, complete genome",Civet SARS CoV SZ16/2003,15202,22531,88%,0,82.33,29731,AY304488.1
+"SARS coronavirus SZ3, complete genome",Civet SARS CoV SZ3/2003,15202,22529,88%,0,82.33,29741,AY304486.1
+"SARS coronavirus GZ02, complete genome",SARS coronavirus GZ02,15191,22548,88%,0,82.32,29760,AY390556.1
+"SARS coronavirus BJ182-12, complete genome",SARS coronavirus BJ182-12,15186,22483,88%,0,82.32,29512,EU371564.1
+"SARS coronavirus CUHK-W1, complete genome",SARS coronavirus CUHK-W1,15186,22577,88%,0,82.32,29736,AY278554.2
+"SARS coronavirus ZJ02, complete genome",SARS coronavirus ZJ02,15180,22548,88%,0,82.31,29731,EU371559.1
+"SARS coronavirus Sin845, complete genome",SARS coronavirus Sin845,15180,22507,88%,0,82.31,29712,AY559093.1
+"Coronavirus BtRs-BetaCoV/YN2018B, complete genome",Coronavirus BtRs-BetaCoV/YN2018B,15176,22618,91%,0,82.32,30256,MK211376.1
+"Bat SARS-like coronavirus isolate Rs4231, complete genome",Bat SARS-like coronavirus,15176,22534,91%,0,82.3,29782,KY417146.1
+"SARS coronavirus Tor2 isolate Tor2/FP1-10851, complete genome",SARS coronavirus Tor2,15175,22417,88%,0,82.3,29646,JX163927.1
+"SARS coronavirus Tor2 isolate Tor2/FP1-10912, complete genome",SARS coronavirus Tor2,15175,22424,88%,0,82.3,29646,JX163926.1
+"SARS coronavirus Tor2 isolate Tor2/FP1-10912, complete genome",SARS coronavirus Tor2,15175,22417,88%,0,82.3,29646,JX163923.1
+"SARS coronavirus HKU-39849 isolate UOB, complete genome",SARS coronavirus HKU-39849,15175,22529,88%,0,82.3,29727,JQ316196.1
+"SARS coronavirus P2, complete genome",SARS coronavirus P2,15175,22450,88%,0,82.3,29682,FJ882963.1
+"SARS coronavirus strain CV7, complete genome",Severe acute respiratory syndrome-related coronavirus,15175,22574,88%,0,82.3,29751,DQ898174.1
+"SARS coronavirus BJ202, complete genome",SARS coronavirus BJ202,15175,22579,88%,0,82.3,29751,AY864806.1
+"SARS coronavirus HZS2-Fc, complete genome",SARS coronavirus HZS2-Fc,15175,22566,88%,0,82.3,29736,AY394991.1
+"SARS coronavirus HZS2-Fb, complete genome",SARS coronavirus HZS2-Fb,15175,22548,88%,0,82.3,29709,AY394987.1
+"SARS coronavirus Tor2 isolate Tor2/FP1-10895, complete genome",SARS coronavirus Tor2,15173,22415,88%,0,82.3,29646,JX163925.1
+"SARS coronavirus Tor2 isolate Tor2/FP1-10895, complete genome",SARS coronavirus Tor2,15171,22424,88%,0,82.3,29646,JX163928.1
+"SARS coronavirus Tor2 isolate Tor2/FP1-10851, complete genome",SARS coronavirus Tor2,15169,22420,88%,0,82.3,29646,JX163924.1
+"SARS coronavirus BJ182-8, complete genome",SARS coronavirus BJ182-8,15169,22504,88%,0,82.3,29602,EU371563.1
+"SARS coronavirus BJ182b, complete genome",SARS coronavirus BJ182b,15169,22509,88%,0,82.3,29602,EU371561.1
+"SARS coronavirus BJ182a, complete genome",SARS coronavirus BJ182a,15169,22509,88%,0,82.3,29731,EU371560.1
+"BtRs-BetaCoV/YN2013, complete genome",BtRs-BetaCoV/YN2013,15163,21673,85%,0,82.29,29142,KJ473816.1
+"SARS coronavirus BJ182-4, complete genome",SARS coronavirus BJ182-4,15158,22498,88%,0,82.29,29602,EU371562.1
+"Severe acute respiratory syndrome-related coronavirus Rc-o319 RNA, complete genome",Severe acute respiratory syndrome-related coronavirus,15154,23747,92%,0,82.3,29718,LC556375.1
+"Coronavirus BtRs-BetaCoV/YN2018C, complete genome",Coronavirus BtRs-BetaCoV/YN2018C,15149,22403,88%,0,82.29,29689,MK211377.1
+"Bat SARS-like coronavirus isolate Rf4092, complete genome",Bat SARS-like coronavirus,15134,22372,86%,0,82.26,29710,KY417145.1
+"Coronavirus BtRs-BetaCoV/YN2018A, complete genome",Coronavirus BtRs-BetaCoV/YN2018A,15117,22368,88%,0,82.26,29698,MK211375.1
+"SARS-related bat coronavirus isolate Anlong-111 orf1ab polyprotein and orf1a polyprotein genes, complete cds",Bat SARS-like coronavirus,15084,16332,64%,0,82.35,21479,KF294455.1
+"Bat coronavirus Cp/Yunnan2011, complete genome",Bat coronavirus Cp/Yunnan2011,15043,21834,86%,0,82.18,29452,JX993988.1
+"BtRs-BetaCoV/HuB2013, complete genome",BtRs-BetaCoV/HuB2013,14970,22339,87%,0,82.2,29658,KJ473814.1
+"Bat coronavirus (BtCoV/279/2005), complete genome",Bat CoV 279/2005,14916,22163,87%,0,82.16,29741,DQ648857.1
+"Bat coronavirus Rp/Shaanxi2011, complete genome",Bat coronavirus Rp/Shaanxi2011,14892,21819,88%,0,82,29484,JX993987.1
+"SARS-related bat coronavirus isolate Longquan-140 orf1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds",Bat SARS-like coronavirus,14759,23767,91%,0,81.89,29676,KF294457.1
+"Coronavirus BtRl-BetaCoV/SC2018, complete genome",Coronavirus BtRl-BetaCoV/SC2018,14731,21836,87%,0,82.02,29648,MK211374.1
+"BtRf-BetaCoV/SX2013, complete genome",BtRf-BetaCoV/SX2013,14722,21360,87%,0,81.82,29461,KJ473813.1
+"BtRf-BetaCoV/HeB2013, complete genome",BtRf-BetaCoV/HeB2013,14683,21261,86%,0,81.79,29443,KJ473812.1
+"BtRf-BetaCoV/JL2012, complete genome",BtRf-BetaCoV/JL2012,14683,21067,86%,0,81.79,29037,KJ473811.1
+"Bat SARS coronavirus HKU3-7, complete genome",Bat SARS coronavirus HKU3-7,14683,21958,88%,0,81.82,29716,GQ153542.1
+"Bat SARS coronavirus HKU3-8, complete genome",Bat SARS coronavirus HKU3-8,14678,21996,88%,0,81.82,29681,GQ153543.1
+"Bat coronavirus isolate Jiyuan-84, complete genome",Bat coronavirus,14628,21416,87%,0,81.74,29651,KY770860.1
+"Bat coronavirus (BtCoV/273/2005), complete genome",Bat CoV 273/2005,14556,21386,87%,0,81.66,29704,DQ648856.1
+"Bat SARS coronavirus Rf1, complete genome",Bat SARS CoV Rf1/2004,14556,21394,87%,0,81.66,29709,DQ412042.1
+"Bat SARS coronavirus HKU3-12, complete genome",Bat SARS coronavirus HKU3-12,14550,21830,88%,0,81.68,29704,GQ153547.1
+"SARS-related bat coronavirus isolate Jiyuan-331 orf1ab polyprotein gene, complete cds",Bat SARS-like coronavirus,14539,15829,66%,0,81.66,21444,KF294456.1
+"Mutant Bat SARS coronavirus HKU3 isolate icHKU3-SRBD-MA, complete genome",Bat SARS coronavirus HKU3,14517,22120,91%,0,81.65,29781,MT782115.1
+"Mutant Bat SARS coronavirus HKU3 isolate icHKU3-SRBD, complete genome",Bat SARS coronavirus HKU3,14517,22126,91%,0,81.65,29781,MT782114.1
+"Recombinant coronavirus clone Bat SARS-CoV, complete sequence",recombinant coronavirus,14517,21878,89%,0,81.65,29750,FJ211859.1
+"bat SARS coronavirus HKU3-2, complete genome",Bat SARS coronavirus HKU3-2,14512,21810,88%,0,81.64,29687,DQ084199.1
+"Bat SARS coronavirus HKU3-5, complete genome",Bat SARS coronavirus HKU3-5,14506,21791,88%,0,81.63,29704,GQ153540.1
+"Bat SARS coronavirus HKU3-4, complete genome",Bat SARS coronavirus HKU3-4,14506,21797,88%,0,81.63,29704,GQ153539.1
+"Bat SARS coronavirus HKU3-11, complete genome",Bat SARS coronavirus HKU3-11,14501,21780,88%,0,81.63,29695,GQ153546.1
+"Bat SARS coronavirus HKU3-1, complete genome",Bat SARS coronavirus HKU3-1,14501,21863,89%,0,81.63,29728,DQ022305.2
+"bat SARS coronavirus HKU3-3, complete genome",Bat SARS coronavirus HKU3-3,14501,21849,89%,0,81.63,29711,DQ084200.1
+"Bat SARS coronavirus HKU3-13, complete genome",Bat SARS coronavirus HKU3-13,14495,21769,88%,0,81.63,29677,GQ153548.1
+"Bat SARS coronavirus HKU3-6, complete genome",Bat SARS coronavirus HKU3-6,14495,21797,88%,0,81.62,29704,GQ153541.1
+"Bat SARS coronavirus HKU3-10, complete genome",Bat SARS coronavirus HKU3-10,14484,21758,88%,0,81.61,29695,GQ153545.1
+"Bat SARS coronavirus HKU3-9, complete genome",Bat SARS coronavirus HKU3-9,14484,21758,88%,0,81.61,29695,GQ153544.1
+"Cloning vector pSF_lenti_SARS-CoV-2_partial-ORF1b/partial-S, complete sequence",Cloning vector pSF_lenti_SARS-CoV-2_partial-ORF1b/partial-S,14035,14035,25%,0,99.97,13507,MT299804.1
+Synthetic construct clone NIBSC_20_138_3 sequence,synthetic construct,13971,13971,25%,0,99.97,7575,MW059034.1
+"Cloning vector pSF_lenti_SARS-CoV-2_partial-S/E/M/N, complete sequence",Cloning vector pSF_lenti_SARS-CoV-2_partial-S/E/M/N,13935,13935,25%,0,99.83,13543,MT299805.1
+Synthetic construct clone NIBSC_20_138_4 sequence,synthetic construct,13884,13884,25%,0,99.83,7558,MW059035.1
+"Cloning vector pSF_lenti_SARS-CoV-2_partial-ORF1ab, complete sequence",Cloning vector pSF_lenti_SARS-CoV-2_partial-ORF1ab,13845,13845,25%,0,99.99,13462,MT299803.1
+"Cloning vector pSF_lenti_SARS-CoV-2_partial-ORF1a, complete sequence",Cloning vector pSF_lenti_SARS-CoV-2_partial-ORF1a,13821,13821,25%,0,99.88,13408,MT299802.1
+Synthetic construct clone NIBSC_20_138_2 sequence,synthetic construct,13819,13819,25%,0,99.99,7492,MW059033.1
+Synthetic construct clone NIBSC_20_138_1 sequence,synthetic construct,13812,13812,25%,0,99.88,7507,MW059032.1
+"Bat coronavirus isolate JTMC15, complete genome",Bat coronavirus,13501,20280,79%,0,82.94,28761,KU182964.1
+"Bat coronavirus strain 16BO133, complete genome",Bat coronavirus,13452,20206,79%,0,82.88,29075,KY938558.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,
