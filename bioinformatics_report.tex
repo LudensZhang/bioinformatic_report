@@ -38,23 +38,54 @@
 	%正文内容从这里开始
 	\section{基因组分析}
 	\subsection{1.总结β属冠状病毒和SARS-CoV-2（2019-nCoV）的主要特点}
-
+  \paragraph{}\label{subpara:subpara}
 
   \subsection{2.编写并运行example4-1.pl}
+	\paragraph{}编写的example4-1.pl如下
+  \begin{figure}[H]
+		\centering
+  	\includegraphics{./material/practice1/perl_1.jpg}
+  	\caption{example4-1.pl}
+  \end{figure}
 
 	\subsection{3.SARS-CoV-2的基因组序列}
-	\paragraph{}\label{subpara:subpara}新冠病毒基因组序列序列见\href{./material/practice1/gene.txt}{附件:新冠病毒的基因序列}
-	\paragraph{}\label{subpara:subpara}\href{./material/practice1/gene_match.pl}{获得其互补序列的perl程序}
+	\paragraph{}\label{subpara:subpara}得到新冠病毒基因的fasta文件后，通过如下perl程序得到其互补序列。
+	\begin{figure}[H]
+		\centering
+		\includegraphics{./material/practice1/perl_2.jpg}
+		\caption{gene\_match.pl}
+	\end{figure}
 
   \subsection{4.SARS-CoV-2潜在编码序列的预测}
-	\paragraph{}\label{subpara:subpara}预测开放阅读框
+	\paragraph{}\label{subpara:subpara}预测开放阅读框如下
 	\begin{figure}[H]
 		\centering
 		\includegraphics[width=1\textwidth]{./material/practice1/ORF.PNG}
     \caption{ORF\_prediction.PNG}
   \end{figure}
-  \subsection{5.发现与SARS-CoV-2同源的冠状病毒}
 
+	\paragraph{}\label{subpara:subpara}CDS注释如下
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=1\textwidth]{./material/practice1/CDS.png}
+		\caption{CDS\_annotation.PNG}
+	\end{figure}
+	\paragraph{}\label{subpara:subpara}通过比较预测的ORF与CDS注释可以发现，预测的ORF几乎占据了整段基因，但实际CDS仅为其中的一部分，说明基因并不是整段表达的。
+  \subsection{5.发现与SARS-CoV-2同源的冠状病毒}
+	\begin{table}[H]
+		\begin{center}
+			\begin{tabular}{|cccc|}
+				\hline
+				MT461669.1 & MT108784.1 & HG994854.1 & HG994852.1 \\
+				HG994857.1 & HG994855.1 & MT461671.1 & MT461670.1 \\
+        MN996532.2 & HG994858.1 & HG994859.1 &
+        HG994856.1 \\
+				HG994853.1 & MT121216.1 & MW703458.1 & MT040335.1 \\
+				MT040333.1 & MT072864.1 & MT040334.1 & MT040336.1 \\ \hline
+			\end{tabular}
+			\caption{20个SARS-CoV-2的同源冠状病毒的序列号}
+		\end{center}
+	\end{table}
   \subsection{6.插入片段分析}
 
 	\section{序列分析}
@@ -65,8 +96,8 @@
 	\subsection{3.等电点与分子量分析}
 	\begin{table}[H]
   \begin{center}
-    \caption{编码蛋白等电点与分子量}
-    \begin{tabular}{l|c|r} % <-- Alignments: 1st column left, 2nd middle and 3rd right, with vertical lines in between
+    \begin{tabular}{|l|c|r|} % <-- Alignments: 1st column left, 2nd middle and 3rd right, with vertical lines in between
+			\hline
       \textbf{序号} & \textbf{等电点pI} & \textbf{分子量Mw}\\
       \hline
 			  CDS\_1 & 6.32 & 794057.79\\
@@ -80,8 +111,9 @@
   	    CDS\_9 & 4.17 & 5180.27\\
   	    CDS\_10 & 5.42 & 13831.01\\
   	    CDS\_11 & 10.07 & 45625.70\\
-  	    CDS\_12 & 7.93 & 4449.23\\
+  	    CDS\_12 & 7.93 & 4449.23\\ \hline
     \end{tabular}
+		    \caption{编码蛋白等电点与分子量}
   \end{center}
 \end{table}
 	\subsection{4.功能结构域分析}

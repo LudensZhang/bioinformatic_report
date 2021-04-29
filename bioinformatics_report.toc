@@ -1,16 +1,19 @@
 \contentsline {section}{\numberline {1}基因组分析}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}1.总结β属冠状病毒和SARS-CoV-2（2019-nCoV）的主要特点}{1}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}2.编写并运行example4-1.pl}{1}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}3.SARS-CoV-2的基因组序列}{1}{subsection.1.3}%
 \contentsline {paragraph}{}{1}{paragraph*.1}%
+\contentsline {subsection}{\numberline {1.2}2.编写并运行example4-1.pl}{1}{subsection.1.2}%
 \contentsline {paragraph}{}{1}{paragraph*.2}%
-\contentsline {subsection}{\numberline {1.4}4.SARS-CoV-2潜在编码序列的预测}{1}{subsection.1.4}%
-\contentsline {paragraph}{}{1}{paragraph*.3}%
-\contentsline {subsection}{\numberline {1.5}5.发现与SARS-CoV-2同源的冠状病毒}{2}{subsection.1.5}%
-\contentsline {subsection}{\numberline {1.6}6.插入片段分析}{2}{subsection.1.6}%
-\contentsline {section}{\numberline {2}序列分析}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}1.INS1378与pShuttle-SN载体的相似性}{2}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}2.SARS-CoV-2的蛋白质序列}{2}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}3.等电点与分子量分析}{2}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}4.功能结构域分析}{2}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}5.细胞亚定位分析}{2}{subsection.2.5}%
+\contentsline {subsection}{\numberline {1.3}3.SARS-CoV-2的基因组序列}{1}{subsection.1.3}%
+\contentsline {paragraph}{}{1}{paragraph*.4}%
+\contentsline {subsection}{\numberline {1.4}4.SARS-CoV-2潜在编码序列的预测}{2}{subsection.1.4}%
+\contentsline {paragraph}{}{2}{paragraph*.6}%
+\contentsline {paragraph}{}{3}{paragraph*.8}%
+\contentsline {paragraph}{}{3}{paragraph*.10}%
+\contentsline {subsection}{\numberline {1.5}5.发现与SARS-CoV-2同源的冠状病毒}{3}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}6.插入片段分析}{4}{subsection.1.6}%
+\contentsline {section}{\numberline {2}序列分析}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}1.INS1378与pShuttle-SN载体的相似性}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}2.SARS-CoV-2的蛋白质序列}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}3.等电点与分子量分析}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}4.功能结构域分析}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}5.细胞亚定位分析}{4}{subsection.2.5}%
