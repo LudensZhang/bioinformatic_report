@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.9)  2 MAY 2021 12:53
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.9)  3 MAY 2021 08:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -811,6 +811,12 @@ LaTeX Warning: Label `subpara:subpara' multiply defined.
 
 LaTeX Warning: Label `subpara:subpara' multiply defined.
 
+
+LaTeX Warning: Label `subpara:subpara' multiply defined.
+
+
+LaTeX Warning: Label `subpara:subpara' multiply defined.
+
 )
 \openout1 = `bioinformatics_report.aux'.
 
@@ -1037,13 +1043,25 @@ Package fontspec Info: Font family 'SimSun(1)' created for font 'SimSun' with
 
 
 ]
+File: ./material/practice1/perl_1.jpg Graphic file (type bmp)
+<./material/practice1/perl_1.jpg>
+File: ./material/practice1/perl_2.jpg Graphic file (type bmp)
+<./material/practice1/perl_2.jpg>
+
+Overfull \hbox (145.048pt too wide) in paragraph at lines 55--56
+ [][] 
+ []
+
+[1
+
+
+
+]
 File: ./material/practice1/ORF.PNG Graphic file (type bmp)
 <./material/practice1/ORF.PNG>
- [1
-
-
-
-] [2] (./bioinformatics_report.aux)
+File: ./material/practice1/CDS.png Graphic file (type bmp)
+<./material/practice1/CDS.png>
+ [2] [3] [4] (./bioinformatics_report.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1051,12 +1069,12 @@ Package rerunfilecheck Info: File `bioinformatics_report.out' has not changed.
 (rerunfilecheck)             Checksum: 8BE79555D47B00A32ED482A7E0D57BD0;2053.
  ) 
 Here is how much of TeX's memory you used:
- 19248 strings out of 476919
- 384337 string characters out of 5825425
- 738443 words of memory out of 5000000
- 38875 multiletter control sequences out of 15000+600000
+ 19289 strings out of 476919
+ 386280 string characters out of 5825425
+ 740444 words of memory out of 5000000
+ 38912 multiletter control sequences out of 15000+600000
  419014 words of font info for 134 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 96i,11n,102p,1238b,505s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 96i,11n,102p,1238b,502s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on bioinformatics_report.xdv (4 pages, 31236 bytes).
+Output written on bioinformatics_report.xdv (6 pages, 38800 bytes).
