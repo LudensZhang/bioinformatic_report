@@ -8,7 +8,7 @@
 \contentsline {paragraph}{}{1}{paragraph*.5}%
 \contentsline {subsection}{\numberline {1.4}SARS-CoV-2潜在编码序列的预测}{2}{subsection.1.4}%
 \contentsline {paragraph}{}{2}{paragraph*.7}%
-\contentsline {paragraph}{}{2}{paragraph*.9}%
+\contentsline {paragraph}{}{3}{paragraph*.9}%
 \contentsline {paragraph}{}{3}{paragraph*.11}%
 \contentsline {subsection}{\numberline {1.5}发现与SARS-CoV-2同源的冠状病毒}{3}{subsection.1.5}%
 \contentsline {subsection}{\numberline {1.6}插入片段分析}{3}{subsection.1.6}%
@@ -18,9 +18,41 @@
 \contentsline {subsection}{\numberline {2.1}INS1378与pShuttle-SN载体的相似性}{6}{subsection.2.1}%
 \contentsline {paragraph}{}{6}{paragraph*.18}%
 \contentsline {paragraph}{}{7}{paragraph*.21}%
-\contentsline {subsection}{\numberline {2.2}SARS-CoV-2的蛋白质序列}{8}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}等电点与分子量分析}{8}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}功能结构域分析}{8}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}细胞亚定位分析}{8}{subsection.2.5}%
-\contentsline {section}{\numberline {3}进化分析}{8}{section.3}%
-\contentsline {section}{\numberline {4}Spike蛋白分析}{8}{section.4}%
+\contentsline {subsection}{\numberline {2.2}SARS-CoV-2的蛋白质序列}{7}{subsection.2.2}%
+\contentsline {paragraph}{}{7}{paragraph*.22}%
+\contentsline {subsection}{\numberline {2.3}等电点与分子量分析}{9}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}功能结构域分析}{9}{subsection.2.4}%
+\contentsline {paragraph}{}{9}{paragraph*.26}%
+\contentsline {paragraph}{}{14}{paragraph*.31}%
+\contentsline {paragraph}{}{16}{paragraph*.36}%
+\contentsline {paragraph}{}{18}{paragraph*.41}%
+\contentsline {paragraph}{}{20}{paragraph*.46}%
+\contentsline {paragraph}{}{23}{paragraph*.51}%
+\contentsline {paragraph}{}{26}{paragraph*.56}%
+\contentsline {paragraph}{}{28}{paragraph*.61}%
+\contentsline {paragraph}{}{30}{paragraph*.66}%
+\contentsline {paragraph}{}{33}{paragraph*.71}%
+\contentsline {paragraph}{}{36}{paragraph*.76}%
+\contentsline {paragraph}{}{38}{paragraph*.81}%
+\contentsline {subsection}{\numberline {2.5}细胞亚定位分析}{39}{subsection.2.5}%
+\contentsline {paragraph}{}{39}{paragraph*.86}%
+\contentsline {paragraph}{}{40}{paragraph*.89}%
+\contentsline {paragraph}{}{42}{paragraph*.92}%
+\contentsline {paragraph}{}{42}{paragraph*.95}%
+\contentsline {paragraph}{}{43}{paragraph*.98}%
+\contentsline {paragraph}{}{44}{paragraph*.101}%
+\contentsline {paragraph}{}{46}{paragraph*.104}%
+\contentsline {paragraph}{}{47}{paragraph*.107}%
+\contentsline {paragraph}{}{48}{paragraph*.110}%
+\contentsline {paragraph}{}{50}{paragraph*.113}%
+\contentsline {paragraph}{}{52}{paragraph*.116}%
+\contentsline {paragraph}{}{54}{paragraph*.119}%
+\contentsline {section}{\numberline {3}进化分析}{55}{section.3}%
+\contentsline {subsection}{\numberline {3.1}获得Beta属冠状病毒同源基因组序}{55}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}多序列比对}{55}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}分子进化树构建}{56}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Spike蛋白分析}{57}{section.4}%
+\contentsline {subsection}{\numberline {4.1}SARS-CoV-2的Spike的同源蛋白质分析}{57}{subsection.4.1}%
+\contentsline {paragraph}{}{57}{paragraph*.126}%
+\contentsline {subsection}{\numberline {4.2}Spike蛋白质的分子进化}{57}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Spike蛋白质的Furin切割位点预测}{57}{subsection.4.3}%
