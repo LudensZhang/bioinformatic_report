@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.9)  4 MAY 2021 13:36
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.9)  4 MAY 2021 15:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -910,6 +910,12 @@ LaTeX Warning: Label `subpara:subpara' multiply defined.
 
 LaTeX Warning: Label `subpara:subpara' multiply defined.
 
+
+LaTeX Warning: Label `subpara:subpara' multiply defined.
+
+
+LaTeX Warning: Label `subpara:subpara' multiply defined.
+
 )
 \openout1 = `bioinformatics_report.aux'.
 
@@ -1386,9 +1392,19 @@ File: ./material/practice3/mega.png Graphic file (type bmp)
  [56]
 File: ./material/practice4/muscle.png Graphic file (type bmp)
 <./material/practice4/muscle.png>
+File: ./material/practice4/NJ.png Graphic file (type bmp)
+<./material/practice4/NJ.png>
+File: ./material/practice4/MP.png Graphic file (type bmp)
+<./material/practice4/MP.png>
  [57
 
-] (./bioinformatics_report.aux)
+]
+File: ./material/practice4/ML.png Graphic file (type bmp)
+<./material/practice4/ML.png>
+ [58] [59]
+File: ./material/practice4/prop.png Graphic file (type bmp)
+<./material/practice4/prop.png>
+ [60] (./bioinformatics_report.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1396,12 +1412,12 @@ Package rerunfilecheck Info: File `bioinformatics_report.out' has not changed.
 (rerunfilecheck)             Checksum: 2C4D9DE26F922663A3811A00FC63729D;3054.
  ) 
 Here is how much of TeX's memory you used:
- 19773 strings out of 476919
- 405722 string characters out of 5825425
+ 19796 strings out of 476919
+ 406344 string characters out of 5825425
  742561 words of memory out of 5000000
- 39362 multiletter control sequences out of 15000+600000
+ 39382 multiletter control sequences out of 15000+600000
  419014 words of font info for 134 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  96i,11n,102p,1238b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on bioinformatics_report.xdv (59 pages, 142420 bytes).
+Output written on bioinformatics_report.xdv (62 pages, 146916 bytes).

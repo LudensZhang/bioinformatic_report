@@ -1,15 +1,15 @@
 # Fdb version 3
-["xdvipdfmx"] 1620106597 "bioinformatics_report.xdv" "bioinformatics_report.pdf" "bioinformatics_report" 1620106643
-  "bioinformatics_report.xdv" 1620106596 142420 a2131dad4d2f0a5d74beb51f6d2c0c6a "xelatex"
+["xdvipdfmx"] 1620112306 "bioinformatics_report.xdv" "bioinformatics_report.pdf" "bioinformatics_report" 1620112350
+  "bioinformatics_report.xdv" 1620112306 146916 d237f0acff7aa0faf7345f2ccc2f6a32 "xelatex"
   (generated)
   "bioinformatics_report.pdf"
-["xelatex"] 1620106591 "bioinformatics_report.tex" "bioinformatics_report.xdv" "bioinformatics_report" 1620106643
+["xelatex"] 1620112301 "bioinformatics_report.tex" "bioinformatics_report.xdv" "bioinformatics_report" 1620112350
   "HUSTBlack.eps" 1619221935 46755 929f5f18d2e2bdfd37a6f7de194aa4c3 ""
   "HustGraduPaper.cls" 1619221935 25442 ad8fa482892fb10932b68853f6eff239 ""
-  "bioinformatics_report.aux" 1620106596 22363 4c33d37f3af6827d5146b3dfc7074a28 "xelatex"
-  "bioinformatics_report.out" 1620106596 3054 2c4d9de26f922663a3811a00fc63729d "xelatex"
-  "bioinformatics_report.tex" 1620106527 21344 a8274cb653999b1d737fc54d5e69ce8f ""
-  "bioinformatics_report.toc" 1620106596 3719 f88273f1fe71170c3a7a8f2cdddf827f "xelatex"
+  "bioinformatics_report.aux" 1620112306 23218 008bb36ba91e64c552f98c3573fd8448 "xelatex"
+  "bioinformatics_report.out" 1620112306 3054 2c4d9de26f922663a3811a00fc63729d "xelatex"
+  "bioinformatics_report.tex" 1620112239 22133 5b6e7c0a9e6788177afa70b9392fe90b ""
+  "bioinformatics_report.toc" 1620112306 3817 52add165b2993673584bad48aec957b2 "xelatex"
   "c:/Windows/Fonts/msyh.ttc" 1575709707 19647736 ff2e53a6131130a07589812ea5b5b0d0 ""
   "d:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1617949778 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/texlive/2021/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1617958350 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
@@ -238,10 +238,14 @@
   "material/practice3/clustal.jpg" 1620055105 229964 5446eacae29ef7f661d4b390ec2a542a ""
   "material/practice3/mega.png" 1620104911 72773 214cfd7ef78a463bf610e2b360fc0669 ""
   "material/practice3/muscle.png" 1620055119 78743 0de1ec4434612832896be735faab0dba ""
-  "material/practice4/muscle.png" 1620106553 153208 0f09c9475e15550f1bba2b0e6abb3458 ""
+  "material/practice4/ML.png" 1620111943 96206 246510c99ec9ef7e62271d4a91b1df4e ""
+  "material/practice4/MP.png" 1620108025 95905 530bd40c2df87d43c95d12a4847da313 ""
+  "material/practice4/NJ.png" 1620107830 96464 cf8c1ce56dbfd3e66c6deb63c3003c9b ""
+  "material/practice4/muscle.png" 1620107921 153208 a3c0d39914d62a2df1e3101bb50d1033 ""
+  "material/practice4/prop.png" 1620112290 79003 8f9fb83bfbfdf7a4f8ad6d7f7dac4c42 ""
   (generated)
   "bioinformatics_report.out"
   "bioinformatics_report.aux"
-  "bioinformatics_report.toc"
-  "bioinformatics_report.xdv"
   "bioinformatics_report.log"
+  "bioinformatics_report.xdv"
+  "bioinformatics_report.toc"
